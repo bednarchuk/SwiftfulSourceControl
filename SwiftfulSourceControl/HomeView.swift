@@ -1,9 +1,3 @@
-//
-//  HomeView.swift
-//  SwiftfulSourceControl
-//
-//  Created by Mikhail Bednarchuk on 01.03.2025.
-//
 
 import SwiftUI
 
