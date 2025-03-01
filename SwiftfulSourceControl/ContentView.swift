@@ -9,6 +9,10 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("New Text")
+            
+            Button("Subscribe") {
+                
+            }
         }
         .padding()
     }
