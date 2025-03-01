@@ -8,11 +8,8 @@
 import SwiftUI
 
 struct HomeView: View {
-    @State private var todo: String = ""
-    @State private var showData: Bool = false
-    
     var body: some View {
-        Text("Hello, Dave!")
+        Text("Hello, Mike!")
     }
 }
 
