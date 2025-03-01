@@ -14,12 +14,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            
-            Text("Hello, world!")
-            
-            Button("Click me!") {
-                
-            }
         }
         .padding()
     }
