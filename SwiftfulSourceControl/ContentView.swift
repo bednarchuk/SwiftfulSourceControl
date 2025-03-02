@@ -20,6 +20,16 @@ struct ContentView: View {
             Button("Contact us") {
                 
             }
+            
+            Button("VK") {
+                
+            }
+            Button("Telegram") {
+                
+            }
+            Button("X.com") {
+                
+            }
         }
         .padding()
     }
