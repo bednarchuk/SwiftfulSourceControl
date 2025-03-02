@@ -4,7 +4,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "house.fill")
+            Image(systemName: "bolt.fill")
                 .imageScale(.large)
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
