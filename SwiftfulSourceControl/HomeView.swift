@@ -3,15 +3,12 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        VStack {
-            Rectangle()
-            Rectangle()
-            Rectangle()
-            Rectangle()
+        NavigationStack {
+            VStack {
+                Text("Home View")
+            }
         }
-        .onAppear {
-            
-        }
+        .navigationTitle("Home view")
     }
 }
 
