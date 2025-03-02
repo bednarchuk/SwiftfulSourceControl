@@ -14,6 +14,12 @@ struct ContentView: View {
             Button("Subscribe, please") {
                 
             }
+            Button("Unsubscribe") {
+                
+            }
+            Button("Contact us") {
+                
+            }
         }
         .padding()
     }
