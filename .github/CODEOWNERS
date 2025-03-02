@@ -1,0 +1,8 @@
+# CODEOWNERS
+#
+# This file defines the default code owners for the repository.
+# Code owners are automatically requested for review when someone opens a pull request
+# that modifies files they own.
+
+# Default code owner for the entire repository
+* @bednarchuk
